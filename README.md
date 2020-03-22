@@ -1,8 +1,13 @@
-## Welcome to carclub
+## Welcome to CAR
 
-carclub is a website project to learn [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp), [JavaScript](https://www.w3schools.com/js/default.asp)
+Carclub is a website project to learn [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp), [JavaScript](https://www.w3schools.com/js/default.asp)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our majestic team collects information about cars and circulates in the team so we can get to know about cars. Till now only one round has been complete. Four peple are in the team. They are:
+
+name1 - Koenigsegg Agera
+name2 - Tesla model X
+name3 - Tesla model 3 performance
+name4 - Lamborghini Veneno
 
 ### Markdown
 
