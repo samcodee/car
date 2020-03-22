@@ -1,6 +1,6 @@
 ## Welcome to carclub
 
-carclub is a website project to learn [HTML](https://www.w3schools.com/html/default.asp),
+carclub is a website project to learn [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp), [JavaScript](https://www.w3schools.com/js/default.asp)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
