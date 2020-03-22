@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to carclub
 
-You can use the [editor on GitHub](https://github.com/samcodee/car/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+carclub is a website project to learn [HTML](https://www.w3schools.com/html/default.asp),
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
