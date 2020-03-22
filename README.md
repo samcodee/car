@@ -32,7 +32,7 @@ Here are 7 interesting facts about this cutting edge vehicle;
 
 7. Its smart software even allows users to adjust vehicle height for better handling, efficiency and ride comfort. Through the touchscreen, the user can raise or lower their Tesla Model X when it enters a driveway, navigates through snow, or unloads passengers and belonging
 
-### Jekyll Themes
+### Koenisegg Agera
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samcodee/car/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
